@@ -704,6 +704,7 @@ section { position: relative;}
     pointer-events: none;
   }
   .nav-links li a{
+    font-weight: 900;
     color: #14b8a6;
   }
   .nav-links.active { right: 0; pointer-events: auto;  }
